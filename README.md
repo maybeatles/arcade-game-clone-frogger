@@ -1,1 +1,9 @@
-# arcade game clone frogger
+# 青蛙过河克隆
+一个使用canvas制作的html小游戏
+
+
+## 游戏方法
+
+>通过方向键移动操作player
+
+>躲避敌人到达河里即可通关
